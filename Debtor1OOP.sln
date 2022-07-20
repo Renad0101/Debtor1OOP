@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Debtor1OOP", "Debtor1OOP\Debtor1OOP.vcxproj", "{CBCDD9FD-32A9-4EA1-B289-862A8AD5D818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCDD9FD-32A9-4EA1-B289-862A8AD5D818}.Debug|x64.ActiveCfg = Debug|x64
+		{CBCDD9FD-32A9-4EA1-B289-862A8AD5D818}.Debug|x64.Build.0 = Debug|x64
+		{CBCDD9FD-32A9-4EA1-B289-862A8AD5D818}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBCDD9FD-32A9-4EA1-B289-862A8AD5D818}.Debug|x86.Build.0 = Debug|Win32
+		{CBCDD9FD-32A9-4EA1-B289-862A8AD5D818}.Release|x64.ActiveCfg = Release|x64
+		{CBCDD9FD-32A9-4EA1-B289-862A8AD5D818}.Release|x64.Build.0 = Release|x64
+		{CBCDD9FD-32A9-4EA1-B289-862A8AD5D818}.Release|x86.ActiveCfg = Release|Win32
+		{CBCDD9FD-32A9-4EA1-B289-862A8AD5D818}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6570792-2779-4BBF-9662-5C23D82F64D8}
+	EndGlobalSection
+EndGlobal
